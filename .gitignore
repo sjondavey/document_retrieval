@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+env/
+
+db_*/
+
+.chroma/
+
+question_embeddings/
+
+tests/
